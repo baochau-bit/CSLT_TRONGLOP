@@ -9,11 +9,15 @@
 
   <ItemGroup>
     <Compile Remove="session 1.cs" />
+    <Compile Remove="session_03.cs" />
+    <Compile Remove="session_2.1.cs" />
     <Compile Remove="session_2.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="session 1.cs" />
+    <None Include="session_03.cs" />
+    <None Include="session_2.1.cs" />
     <None Include="session_2.cs" />
   </ItemGroup>
 

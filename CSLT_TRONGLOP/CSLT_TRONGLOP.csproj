@@ -8,15 +8,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="jaggearray.cs" />
     <Compile Remove="session 1.cs" />
-    <Compile Remove="session_03.cs" />
+    <Compile Remove="Session 3.cs" />
+    <Compile Remove="session 5.cs" />
+    <Compile Remove="session_04.cs" />
     <Compile Remove="session_2.1.cs" />
     <Compile Remove="session_2.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="jaggearray.cs" />
     <None Include="session 1.cs" />
-    <None Include="session_03.cs" />
+    <None Include="Session 3.cs" />
+    <None Include="session 5.cs" />
+    <None Include="session_04.cs" />
     <None Include="session_2.1.cs" />
     <None Include="session_2.cs" />
   </ItemGroup>

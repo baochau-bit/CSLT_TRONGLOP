@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CSLT_TRONGLOP
 {
-    internal class session_05
+    internal class jaggearray
     {
+        int[][] jaggedArray = new int[4][];
     }
 }
